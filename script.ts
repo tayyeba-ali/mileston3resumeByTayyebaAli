@@ -38,6 +38,8 @@ document.getElementById('resumeForm')?.addEventListener('submit', function(event
    <p><strong>Name :</strong> ${name} </p>
     <p><strong>Email :</strong> ${email} </p>
     <p><strong>Phone Number :</strong> ${phone} </p>
+    <p><strong>Address :</strong> ${address} </p>
+
    
     <h3>Education</h3>
     <p>${education}</p>
